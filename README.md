@@ -1,6 +1,7 @@
 # Vue-QA
 
 这是一关于Vue面试题，总结一下方便自己与他人
+tips: 如果github图片不能正常显示，请先在 /etc/hosts文件下添加配置 `151.101.76.133 raw.githubusercontent.com`
 
 ### 1.数据相关
 __1.1 computed 和 watch 的区别和运用的场景__  
